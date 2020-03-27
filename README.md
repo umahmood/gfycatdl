@@ -1,10 +1,10 @@
 # Gfycatdl
 
-Gfycat downloads gifs from [gfycat.com](https://gfycat.com/)
+Gfycatdl downloads gifs from [gfycat.com](https://gfycat.com/)
 
 Gfycatdl is a [Go](https://golang.org/) library and command line tool.
 
-**Note:** gfycat does have an api which requires an account and each request to
+**Note:** gfycat.com does have an api which requires an account and each request to
 be authenticated. This tool simply scrapes the page and gets a download link.
 
 # Installation
@@ -17,9 +17,9 @@ Command line:
 
 > $ gfycatdl -url https://gfycat.com/violetsmartalleycat-sunset-dusk-nature
 
-> $ gfycat -help
+> $ gfycatdl -help
 ```
-Download gfycat gifs.
+Download gifs from gfycat.com
 
 Usage:
 
