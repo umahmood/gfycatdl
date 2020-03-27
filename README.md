@@ -59,7 +59,7 @@ func main() {
 
 # Documentation
 
-- https://pkg.go.dev/github.com/umahmood/gfycatdl
+- http://godoc.org/github.com/umahmood/gfycatdl
 
 # License
 
